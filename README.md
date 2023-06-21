@@ -2,4 +2,4 @@
 yo yo 
 git
 gyd
-test one - (the  guide tutorial)
+test one - The guide tutorial
